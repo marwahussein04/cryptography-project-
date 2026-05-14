@@ -1,0 +1,10 @@
+{
+    "algorithm": "DES-CBC",
+    "iv_base64": "glNiC8kU18Y=",
+    "ciphertext_base64": "rCdqFrWmUAmvYyYmmPOacjYsCQ02y9zhStsT8XZO/dK1NFh970cFsUYH0Igf7LSc4RtpmJh+tTaOudsHd3A2N7Rd3Kwvyz1DCFthIj7vX1QK1z0itHIDacxXYmuPCoOFplReIdWnO+V9OaK8KApORNvLYp8yhbQv8MBYdBDFyavqFhZwS966lEv6hs0Q85N/jbtTcLzz/9C5Ys+3xpwv8FGkrqdN6SBeOKY5/fDNo+ntm7zl+QOKMz+ePggjUtK5j6bechLxwRCyHo9bI0t6dCDo5TwaecOOvLdjzgVGM8NTvkgpSMfPH6NnVSaV/nuVV+hLYfD8xE+9obmA4OjIwfsDCaLdeBqd9ebfi9Grl4mAtKHoQON0aTvxfngDA3bBlrcfZr/kjftVvzNclDEulCanOwjtuDGSMNJMJz103+VrlyzCzc4b8dzXJOvuRFOWivl9E5SAIKYqOzxHFxR0rg==",
+    "plaintext_size_bytes": 351,
+    "ciphertext_size_bytes": 352,
+    "key_size_bits": 56,
+    "block_size_bits": 64,
+    "security_note": "DES is weak and allowed here only for educational comparison."
+}

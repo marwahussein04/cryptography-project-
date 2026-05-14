@@ -1,0 +1,11 @@
+{
+    "algorithm": "AES-256-GCM",
+    "nonce_base64": "U8vKgDlpmqbW5pRImF6nEQ==",
+    "tag_base64": "IWl1PnpeJaSYavaHCTmwTg==",
+    "ciphertext_base64": "pj0iqFz3YC142M7bbncIklV0GYiaXWCYr/A9gGuHIFSBfpiLrOEtuTvjDxzmPGecoPqAZQlszKrEKQk37SAn8KjbT2a3ZFtUVzk4jPJ9oGhBfHUNb4fvIz9dKNHfk6jjebBOgHH/02abqJcd5BuaTVbWALZtZfbGM2YCX35sSr9D9dn3lNNsyz2Y4HtEXyai+RGlYlpTwVCmFZ3Mu/6S8U1qDh4el/dlwGUgH+bOmkQTif2fepJwUjHX6hRBaG3M73bSOrW70zR8gvJJafICyhu3WprzUsfL9/4rQevoepK83dfh1fNkiH/FkFUVayEJQ9O8d8HNsV7XQpQyYAabKFebSsM8CVpLmfBwu2DJpyKB49NdiIv2a0TRrCgmZAS7AuOzTbmFYPuUeJTiW6NQqlLJPo4xcOMjVaICsuQXhPRBKkfZCPV2xIz4HutpdGDqujFFTZ7T7cqyAJi6ahWP",
+    "plaintext_size_bytes": 351,
+    "ciphertext_size_bytes": 351,
+    "key_size_bits": 256,
+    "block_size_bits": 128,
+    "security_note": "AES is a modern recommended symmetric encryption algorithm."
+}

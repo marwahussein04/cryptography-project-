@@ -1,0 +1,6 @@
+student_id,name,email,course,grade
+2023001,Aya Hassan,aya.hassan@example.com,Cryptography,A
+2023002,Omar Ali,omar.ali@example.com,Cryptography,B+
+2023003,Mariam Samir,mariam.samir@example.com,Information Security,A-
+2023004,Youssef Ahmed,youssef.ahmed@example.com,Information Security,B
+2023005,Nour Khaled,nour.khaled@example.com,Cryptography,A+
